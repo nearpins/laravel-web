@@ -10,6 +10,7 @@ How to setup
 6. cp .env.example .env
 7. add database info to .env file
 8. php artisan db:seed
+9. php artisan key:generate
 and follow instruption
 
 That's it 
